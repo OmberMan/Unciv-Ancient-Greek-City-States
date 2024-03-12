@@ -1,22 +1,20 @@
 [
 	//Cultured
 	{
-        "name": "Florence-type",
+        "name": "Chios-type",
         "friendBonusUniques": [
             "[+4 Culture] <before the [Medieval era]>",
             "[+8 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+16 Culture] <starting from the [Industrial era]>",
-			"[+5]% [Culture] from every [Monument]",
-			"[+5]% [Culture] from every [Amphitheater]"
+			"[+1] [Happiness] from every [Culture]",
+			 "Provides [1] [Wine]"
         ],
         "allyBonusUniques": [
             "[+6 Culture] <before the [Medieval era]>",
             "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+26 Culture] <starting from the [Industrial era]>",
-			"[+8]% [Culture] from every [Monument]",
-			"[+8]% [Culture] from every [Amphitheater]",				
-			"[+5]% [Culture] from every [Opera House]",
-			"[+5]% [Culture] from every [Museum]",
+			"[+1] [Happiness] from every [Culture]",
+		        "Provides [2] [Wine]"
            "Provides [1] [Great School of Arts res]", "[Composite Bowman] units gain the [Sagittaria] promotion", 
             "Unique Building [Great School of Arts]", "Unique Unit [Sagittaria]"
         ],
